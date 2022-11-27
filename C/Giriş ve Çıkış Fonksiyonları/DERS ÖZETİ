@@ -1,0 +1,11 @@
+/*
+# input function(scanf): Kisaca soylemek gerekirse printf fonksiyonu'nun tersidir. Kullanicinin veri girisi yapmasina izin veren fonksiyon diyebiliriz.
+# ampersand(&): scanf fonksiyonu'nun formati ve adreslenmesi icin kullanilir.
+ORNEK: float veri tipi olan x degiskeninin degerini kullanicinin belirlemesini istiyoruz.
+- scanf(%f",&x);
+
+
+# output function(printf): Program yazarken atanan degiskenler veya girilen verilerin ciktilarini yazdiran fonksiyondur.
+ORNEK: integer veri tipi olan x degiskeninin degerini 5 olsun. x degiskeninin degerini kullaniciya gosterelim.
+- printf("x:%d",x);
+*/
