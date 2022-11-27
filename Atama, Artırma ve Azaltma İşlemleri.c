@@ -11,7 +11,7 @@ ATAMALAR:
 /* 
 ARTIRMA VE AZALTMA ISLEMLERI:
 
-# i+=1 (Solda gösterilen ifade i degerinin 1 artirmasini saglar. C dilinde bu ifadeyi yapmanın baska bir yolu daha vardir. Su sekildedirler);
+# i+=1 (Solda gÃ¶sterilen ifade i degerinin 1 artirmasini saglar. C dilinde bu ifadeyi yapmanÄ±n baska bir yolu daha vardir. Su sekildedirler);
  
 - postfix: tanimlanan bir degeri bir sonraki ciktida bir azaltmaya veya artirmaya yarar. Asagidaki gibi kullanilir;
 -- i++(sonraki ciktida bir artirir). veya i--(sonraki ciktida bir azaltir).
