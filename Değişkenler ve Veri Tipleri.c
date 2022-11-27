@@ -4,25 +4,25 @@ int main() {
 
 /*  
   1-) integer(int) veri tipi:
-	# Tam sayıları içeren veri tipidir.
-	# 4 byte(32 bit) alanı kapsar.
+	# Tam sayÄ±larÄ± iÃ§eren veri tipidir.
+	# 4 byte(32 bit) alanÄ± kapsar.
 	
 	    
   2-) float(float) veri tipi:
-	# Ondalıklı sayıları içeren veri tipidir.
-	# 4 byte(32bit) alanı kapsar.
+	# OndalÄ±klÄ± sayÄ±larÄ± iÃ§eren veri tipidir.
+	# 4 byte(32bit) alanÄ± kapsar.
 	
 	  
   3-) double(double) veri tipi:
-	# Uzun ondalıklı sayıları içeren veri tipidir.
-	# 8 byte(64 bit) alanı kapsar.
+	# Uzun ondalÄ±klÄ± sayÄ±larÄ± iÃ§eren veri tipidir.
+	# 8 byte(64 bit) alanÄ± kapsar.
 	
 			
   4-) character(char) veri tipi:
-	# Harfleri içeren veri tipidir.
-	# 1 byte(8 bit) alanı kapsar.
+	# Harfleri iÃ§eren veri tipidir.
+	# 1 byte(8 bit) alanÄ± kapsar.
 	
-  Not: Bu veri tiplerinin yanlarına 'Short ve Long' ekleyip tanımlarsak; veri tipinin değer aralığını ve kapladığı alanı da değiştirmiş oluruz.  
+  Not: Bu veri tiplerinin yanlarÄ±na 'Short ve Long' ekleyip tanÄ±mlarsak; veri tipinin deÄŸer aralÄ±ÄŸÄ±nÄ± ve kapladÄ±ÄŸÄ± alanÄ± da deÄŸiÅŸtirmiÅŸ oluruz.  
 */
 
 int sayi1=3;
@@ -35,8 +35,8 @@ printf("%d %30f %f %c %s\n",sayi1,sayi2,sayi3,harf1,"C ogreniyorum!");
 printf("%d %.1f %.4f %c %s\n",sayi1,sayi2,sayi3,harf1,"C ogreniyorum!");
 
 /*   
-  Veri tiplerinin kaç byte alanı kapladığını bulalım;
-   # sizeof fonksiyonu alan büyüklüğünü gösterir.
+  Veri tiplerinin kaÃ§ byte alanÄ± kapladÄ±ÄŸÄ±nÄ± bulalÄ±m;
+   # sizeof fonksiyonu alan bÃ¼yÃ¼klÃ¼ÄŸÃ¼nÃ¼ gÃ¶sterir.
 */
 
 printf("\n%d byte\n",sizeof(int));
