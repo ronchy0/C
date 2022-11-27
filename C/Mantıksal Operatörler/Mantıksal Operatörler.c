@@ -25,11 +25,11 @@ MANTIKSAL OPERATORLER:
 /*
 MANTIKSAL BAGLACLAR:
 
-# Birçok mantiksal ifadeyi/islemi baglayan araclardir.
+# BirÃ§ok mantiksal ifadeyi/islemi baglayan araclardir.
 
 && : Mantiksal and(ve) baglaci.
 - Cumle ya tamamen 'true' dir ya da tamamen 'false' dir.
-- Icýnde oldugu cumle true iken bir tane false olmasý sonucu false yapar.
+- IcÄ±nde oldugu cumle true iken bir tane false olmasÄ± sonucu false yapar.
 
 
 || : Mantiksal or(ya da) baglaci.
