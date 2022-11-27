@@ -1,10 +1,10 @@
 /*
 # x + y ---> x ile y'i toplar.
-# x - y ---> x'den y'i çıkarır.
-# x * y ---> x ile y'i çarpar.
-# x / y ---> x ile y'i böler.
+# x - y ---> x'den y'i Ã§Ä±karÄ±r.
+# x * y ---> x ile y'i Ã§arpar.
+# x / y ---> x ile y'i bÃ¶ler.
   
-# x % y ---> x ile y'nin bölümden kalanı gösterir.
+# x % y ---> x ile y'nin bÃ¶lÃ¼mden kalanÄ± gÃ¶sterir.
 */
 
 #include <stdio.h>
